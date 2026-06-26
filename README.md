@@ -12,25 +12,25 @@
 
 <br>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://priyansh-katiyar-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/priyansh-katiyar">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:priyanshkatiyar9988@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/priyanshkatiyar9988-del">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2)
+![](https://komarev.com/ghpvc/?username=priyanshkatiyar9988-del&style=for-the-badge&color=8A2BE2)
 
 </div>
 
@@ -97,7 +97,7 @@ A modern responsive developer portfolio designed with React and custom animation
 | Performance | Lighthouse Optimized |
 | Security | Static Deployment |
 | Impact | Professional Branding |
-| Repository | Add Repository Link |
+| Repository | https://github.com/priyanshkatiyar9988-del/Priyansh_Katiyar_Portfolio |
 
 ### Highlights
 
@@ -106,60 +106,6 @@ A modern responsive developer portfolio designed with React and custom animation
 - Mobile Friendly
 - Modern Design
 - Vercel Deployment
-
-</details>
-
----
-
-<details>
-<summary><b>🎓 Student Management System</b></summary>
-
-### Overview
-
-A full-stack application designed to manage student records, academic data, and administration workflows.
-
-| Metric | Details |
-|----------|----------|
-| Stack | React, Flask, MongoDB |
-| Scale | Educational Platform |
-| Performance | Fast CRUD Operations |
-| Security | Authentication |
-| Impact | Academic Management |
-| Repository | Add Repository Link |
-
-### Highlights
-
-- Authentication
-- CRUD Operations
-- Database Integration
-- REST APIs
-
-</details>
-
----
-
-<details>
-<summary><b>✅ Task Management Application</b></summary>
-
-### Overview
-
-A productivity platform allowing users to organize, manage, and track tasks efficiently.
-
-| Metric | Details |
-|----------|----------|
-| Stack | React, Node.js |
-| Scale | Multi-user |
-| Performance | Optimized |
-| Security | JWT Authentication |
-| Impact | Productivity Enhancement |
-| Repository | Add Repository Link |
-
-### Highlights
-
-- Task Tracking
-- Authentication
-- Responsive Design
-- API Integration
 
 </details>
 
@@ -195,22 +141,20 @@ A productivity platform allowing users to organize, manage, and track tasks effi
 
 <div align="center">
 
-<a href="#">
+<a href="https://leetcode.com/u/PriyanshKatiyar/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
-
+<!--
 <a href="#">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge">
 </a>
-
 <a href="#">
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank">
 </a>
-
 <a href="#">
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge">
 </a>
-
+-->
 </div>
 
 ---
@@ -282,15 +226,15 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:priyanshkatiyar9988@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/priyansh-katiyar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/priyanshkatiyar9988-del">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
