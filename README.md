@@ -57,39 +57,27 @@ I enjoy developing modern user interfaces, backend systems, and complete end-to-
 
 ### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend & Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,django,mongodb,mysql" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" width="48"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel" />
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | ⭐⭐⭐☆☆ | Learning ML Concepts & Algorithms |
-| Deep Learning | ⭐⭐☆☆☆ | Neural Network Fundamentals |
-| Data Analysis | ⭐⭐⭐☆☆ | Python, Pandas, NumPy |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | LLM Workflows & AI Tools |
-| AI Applications | ⭐⭐⭐☆☆ | AI-Powered Web Solutions |
 
 ---
 
@@ -176,17 +164,6 @@ A productivity platform allowing users to organize, manage, and track tasks effi
 </details>
 
 ---
-
-# Experience
-
-## Full Stack Developer
-
-### Self Projects & Practical Learning
-
-**2024 — Present**
-
-Building modern web applications and strengthening expertise across frontend and backend technologies.
-
 #### Scope of Work
 
 - Developed responsive React applications
@@ -211,26 +188,6 @@ Building modern web applications and strengthening expertise across frontend and
 | Continuous Learning | Regularly improving development skills |
 | Open Source Learning | Exploring GitHub ecosystem |
 | Problem Solving | Practicing coding challenges |
-
----
-
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6A5ACD?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -262,15 +219,15 @@ Building modern web applications and strengthening expertise across frontend and
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshkatiyar9988-del&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshkatiyar9988-del&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshkatiyar9988-del&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -280,7 +237,7 @@ Building modern web applications and strengthening expertise across frontend and
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshkatiyar9988-delE&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -290,7 +247,7 @@ Building modern web applications and strengthening expertise across frontend and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshkatiyar9988-del&theme=tokyo-night"/>
 
 </div>
 
