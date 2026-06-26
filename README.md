@@ -233,16 +233,6 @@ A productivity platform allowing users to organize, manage, and track tasks effi
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshkatiyar9988-delE&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -256,9 +246,7 @@ A productivity platform allowing users to organize, manage, and track tasks effi
 # Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/priyanshkatiyar9988-del/priyanshkatiyar9988-del/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
